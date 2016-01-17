@@ -1,0 +1,8 @@
+C:\git\MyControls\MyControls\bin\Debug\MyControls.dll
+C:\git\MyControls\MyControls\bin\Debug\MyControls.pdb
+C:\git\MyControls\MyControls\obj\Debug\MyControls.dll
+C:\git\MyControls\MyControls\obj\Debug\MyControls.pdb
+C:\git\MyControls\MyControls\obj\Debug\MyControls.Mik_Form.resources
+C:\git\MyControls\MyControls\obj\Debug\MyControls.csproj.GenerateResource.Cache
+C:\git\MyControls\MyControls\obj\Debug\MyControls.Mik_LabelButton.resources
+C:\git\MyControls\MyControls\obj\Debug\MyControls.Mik_Label.resources
