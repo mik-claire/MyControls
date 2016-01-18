@@ -20,6 +20,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <RegisterForComInterop>false</RegisterForComInterop>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -42,19 +43,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Mik_Form.cs">
-      <SubType>UserControl</SubType>
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="Mik_Form.Designer.cs">
       <DependentUpon>Mik_Form.cs</DependentUpon>
     </Compile>
     <Compile Include="Mik_Label.cs">
-      <SubType>UserControl</SubType>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Mik_Label.Designer.cs">
       <DependentUpon>Mik_Label.cs</DependentUpon>
     </Compile>
     <Compile Include="Mik_LabelButton.cs">
-      <SubType>UserControl</SubType>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Mik_LabelButton.Designer.cs">
       <DependentUpon>Mik_LabelButton.cs</DependentUpon>

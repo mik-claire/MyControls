@@ -6,3 +6,11 @@ C:\git\MyControls\MyControls\obj\Debug\MyControls.Mik_Form.resources
 C:\git\MyControls\MyControls\obj\Debug\MyControls.csproj.GenerateResource.Cache
 C:\git\MyControls\MyControls\obj\Debug\MyControls.Mik_LabelButton.resources
 C:\git\MyControls\MyControls\obj\Debug\MyControls.Mik_Label.resources
+C:\Users\foa\Desktop\nishinami\myProject\MyControls\MyControls\bin\Debug\MyControls.dll
+C:\Users\foa\Desktop\nishinami\myProject\MyControls\MyControls\bin\Debug\MyControls.pdb
+C:\Users\foa\Desktop\nishinami\myProject\MyControls\MyControls\obj\Debug\MyControls.Mik_Form.resources
+C:\Users\foa\Desktop\nishinami\myProject\MyControls\MyControls\obj\Debug\MyControls.Mik_Label.resources
+C:\Users\foa\Desktop\nishinami\myProject\MyControls\MyControls\obj\Debug\MyControls.Mik_LabelButton.resources
+C:\Users\foa\Desktop\nishinami\myProject\MyControls\MyControls\obj\Debug\MyControls.csproj.GenerateResource.Cache
+C:\Users\foa\Desktop\nishinami\myProject\MyControls\MyControls\obj\Debug\MyControls.dll
+C:\Users\foa\Desktop\nishinami\myProject\MyControls\MyControls\obj\Debug\MyControls.pdb
