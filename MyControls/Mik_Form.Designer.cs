@@ -41,9 +41,10 @@
             this.label_Close.ForeColor = System.Drawing.Color.AliceBlue;
             this.label_Close.Location = new System.Drawing.Point(254, 0);
             this.label_Close.Name = "label_Close";
-            this.label_Close.Size = new System.Drawing.Size(46, 15);
+            this.label_Close.Size = new System.Drawing.Size(46, 20);
             this.label_Close.TabIndex = 1;
             this.label_Close.Text = " Close ";
+            this.label_Close.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label_Close.Click += new System.EventHandler(this.label_Close_Click);
             // 
             // label_Minimize
@@ -54,9 +55,10 @@
             this.label_Minimize.ForeColor = System.Drawing.Color.AliceBlue;
             this.label_Minimize.Location = new System.Drawing.Point(188, 0);
             this.label_Minimize.Name = "label_Minimize";
-            this.label_Minimize.Size = new System.Drawing.Size(66, 15);
+            this.label_Minimize.Size = new System.Drawing.Size(66, 20);
             this.label_Minimize.TabIndex = 0;
             this.label_Minimize.Text = " Minimize ";
+            this.label_Minimize.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label_Minimize.Click += new System.EventHandler(this.label_Minimize_Click);
             // 
             // label_Title
@@ -66,9 +68,10 @@
             this.label_Title.ForeColor = System.Drawing.Color.AliceBlue;
             this.label_Title.Location = new System.Drawing.Point(0, 0);
             this.label_Title.Name = "label_Title";
-            this.label_Title.Size = new System.Drawing.Size(33, 15);
+            this.label_Title.Size = new System.Drawing.Size(33, 20);
             this.label_Title.TabIndex = 2;
             this.label_Title.Text = "Title";
+            this.label_Title.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.label_Title.MouseDown += new System.Windows.Forms.MouseEventHandler(this.label_Title_MouseDown);
             // 
             // Mik_Form
